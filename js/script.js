@@ -85,8 +85,3 @@ function alertaP(num) {
         alerta[num].classList.remove("show")
     },2000)
 }
-
-
-
-
-
